@@ -1,0 +1,12 @@
+{
+  "sahota": [
+    {
+      "role": "user",
+      "content": "what is python"
+    },
+    {
+      "role": "assistant",
+      "content": " Answer not found in the provided document. However, based on common understanding and considering the context from multiple pages, Python is a high-level scripting language that can be used for various text processing, system administration, and internet-related tasks. It was developed by Guido van Rossum in the early 1990's with an emphasis on being easy to learn for beginners while still offering advanced capabilities for experienced users. The name Python is derived from \"Monty Python's Flying Circus\", a popular TV show."
+    }
+  ]
+}
